@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=*+Welcome+To+My+GitHub+Account!;" />
 </h2>
 
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 
 <h3 align="left">🌟 About Me</h3>
 <p align="left">
@@ -23,7 +23,7 @@
  🌱 I’m currently learning **Machine Learning**
 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Did you know? Walmart handles over 265 million customers globally every week making it the largest seller in traditional retail by revenue**
 
  </div>
 
